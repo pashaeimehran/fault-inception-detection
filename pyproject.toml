@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fusion-fault-inception-detection"
+version = "0.1.0"
+description = "Physics-guided fusion framework for fault inception detection in high-voltage digital fault recorder data."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Julian O" }]
+keywords = [
+    "fault detection",
+    "power systems",
+    "digital fault recorder",
+    "signal processing",
+    "symmetrical components",
+    "wavelets",
+]
+dependencies = ["numpy>=2.2", "pandas>=2.3", "PyWavelets>=1.8"]
+
+[project.optional-dependencies]
+dev = [
+    "black>=26",
+    "isort>=5.13",
+    "jupyter>=1.0",
+    "kaleido>=0.2",
+    "plotly>=5.0",
+]
+labelstudio = [
+    "label-studio==1.23.0",
+    "label-studio-sdk==2.0.18",
+    "python-dotenv>=1.0",
+]
+all = [
+    "black>=26",
+    "isort>=5.13",
+    "jupyter>=1.0",
+    "kaleido>=0.2",
+    "plotly>=5.0",
+    "label-studio==1.23.0",
+    "label-studio-sdk==2.0.18",
+    "python-dotenv>=1.0",
+]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["fusion_fault_inception_detection*"]
+exclude = ["scripts*", "notebooks*", "data*", "figures*", "evaluation*"]
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.isort]
+profile = "black"
+line_length = 88

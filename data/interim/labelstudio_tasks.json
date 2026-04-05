@@ -1,0 +1,2402 @@
+[
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00041.csv",
+      "event_idx": 41,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00073.csv",
+      "event_idx": 73,
+      "predicted_t0": 0.18,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00172.csv",
+      "event_idx": 172,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00174.csv",
+      "event_idx": 174,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00196.csv",
+      "event_idx": 196,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00197.csv",
+      "event_idx": 197,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00206.csv",
+      "event_idx": 206,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00287.csv",
+      "event_idx": 287,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00313.csv",
+      "event_idx": 313,
+      "predicted_t0": 0.32,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00366.csv",
+      "event_idx": 366,
+      "predicted_t0": 0.12,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00405.csv",
+      "event_idx": 405,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00525.csv",
+      "event_idx": 525,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00533.csv",
+      "event_idx": 533,
+      "predicted_t0": 0.32,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00545.csv",
+      "event_idx": 545,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00593.csv",
+      "event_idx": 593,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00596.csv",
+      "event_idx": 596,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00606.csv",
+      "event_idx": 606,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00616.csv",
+      "event_idx": 616,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00624.csv",
+      "event_idx": 624,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00707.csv",
+      "event_idx": 707,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00725.csv",
+      "event_idx": 725,
+      "predicted_t0": 0.11,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00726.csv",
+      "event_idx": 726,
+      "predicted_t0": 0.19,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00798.csv",
+      "event_idx": 798,
+      "predicted_t0": 0.34,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00894.csv",
+      "event_idx": 894,
+      "predicted_t0": 0.17,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00903.csv",
+      "event_idx": 903,
+      "predicted_t0": 0.2,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_00960.csv",
+      "event_idx": 960,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01071.csv",
+      "event_idx": 1071,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01074.csv",
+      "event_idx": 1074,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01104.csv",
+      "event_idx": 1104,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01112.csv",
+      "event_idx": 1112,
+      "predicted_t0": 0.11,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01120.csv",
+      "event_idx": 1120,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01137.csv",
+      "event_idx": 1137,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01166.csv",
+      "event_idx": 1166,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01175.csv",
+      "event_idx": 1175,
+      "predicted_t0": 0.26,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01178.csv",
+      "event_idx": 1178,
+      "predicted_t0": 0.34,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01188.csv",
+      "event_idx": 1188,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01191.csv",
+      "event_idx": 1191,
+      "predicted_t0": 0.46,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01193.csv",
+      "event_idx": 1193,
+      "predicted_t0": 0.14,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01454.csv",
+      "event_idx": 1454,
+      "predicted_t0": 0.48,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01492.csv",
+      "event_idx": 1492,
+      "predicted_t0": 0.16,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01499.csv",
+      "event_idx": 1499,
+      "predicted_t0": 0.26,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01630.csv",
+      "event_idx": 1630,
+      "predicted_t0": 0.4,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01655.csv",
+      "event_idx": 1655,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01697.csv",
+      "event_idx": 1697,
+      "predicted_t0": 0.4,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01737.csv",
+      "event_idx": 1737,
+      "predicted_t0": 0.13,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01781.csv",
+      "event_idx": 1781,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01892.csv",
+      "event_idx": 1892,
+      "predicted_t0": 0.15,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01897.csv",
+      "event_idx": 1897,
+      "predicted_t0": 0.38,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_01976.csv",
+      "event_idx": 1976,
+      "predicted_t0": 0.29,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02011.csv",
+      "event_idx": 2011,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02093.csv",
+      "event_idx": 2093,
+      "predicted_t0": 0.4,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02120.csv",
+      "event_idx": 2120,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02160.csv",
+      "event_idx": 2160,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02174.csv",
+      "event_idx": 2174,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02192.csv",
+      "event_idx": 2192,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02220.csv",
+      "event_idx": 2220,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02233.csv",
+      "event_idx": 2233,
+      "predicted_t0": 1.76,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02301.csv",
+      "event_idx": 2301,
+      "predicted_t0": 1.7,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02330.csv",
+      "event_idx": 2330,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02348.csv",
+      "event_idx": 2348,
+      "predicted_t0": 0.16,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02383.csv",
+      "event_idx": 2383,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02396.csv",
+      "event_idx": 2396,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02411.csv",
+      "event_idx": 2411,
+      "predicted_t0": 0.26,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02434.csv",
+      "event_idx": 2434,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02467.csv",
+      "event_idx": 2467,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02490.csv",
+      "event_idx": 2490,
+      "predicted_t0": 0.34,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02507.csv",
+      "event_idx": 2507,
+      "predicted_t0": 0.31,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02559.csv",
+      "event_idx": 2559,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02610.csv",
+      "event_idx": 2610,
+      "predicted_t0": 0.12,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02625.csv",
+      "event_idx": 2625,
+      "predicted_t0": 0.18,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02649.csv",
+      "event_idx": 2649,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02662.csv",
+      "event_idx": 2662,
+      "predicted_t0": 0.3,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02709.csv",
+      "event_idx": 2709,
+      "predicted_t0": 0.18,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02868.csv",
+      "event_idx": 2868,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02966.csv",
+      "event_idx": 2966,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_02989.csv",
+      "event_idx": 2989,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03014.csv",
+      "event_idx": 3014,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03061.csv",
+      "event_idx": 3061,
+      "predicted_t0": 0.1,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03072.csv",
+      "event_idx": 3072,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03079.csv",
+      "event_idx": 3079,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03089.csv",
+      "event_idx": 3089,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03102.csv",
+      "event_idx": 3102,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03156.csv",
+      "event_idx": 3156,
+      "predicted_t0": 0.58,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03270.csv",
+      "event_idx": 3270,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03287.csv",
+      "event_idx": 3287,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03303.csv",
+      "event_idx": 3303,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03333.csv",
+      "event_idx": 3333,
+      "predicted_t0": 0.4,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03407.csv",
+      "event_idx": 3407,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03443.csv",
+      "event_idx": 3443,
+      "predicted_t0": 0.18,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03450.csv",
+      "event_idx": 3450,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03473.csv",
+      "event_idx": 3473,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03525.csv",
+      "event_idx": 3525,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03527.csv",
+      "event_idx": 3527,
+      "predicted_t0": 0.34,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03573.csv",
+      "event_idx": 3573,
+      "predicted_t0": 0.26,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03594.csv",
+      "event_idx": 3594,
+      "predicted_t0": 0.31,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03672.csv",
+      "event_idx": 3672,
+      "predicted_t0": 0.24,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03679.csv",
+      "event_idx": 3679,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03684.csv",
+      "event_idx": 3684,
+      "predicted_t0": 0.16,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03695.csv",
+      "event_idx": 3695,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03698.csv",
+      "event_idx": 3698,
+      "predicted_t0": 0.12,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03705.csv",
+      "event_idx": 3705,
+      "predicted_t0": 1.54,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03710.csv",
+      "event_idx": 3710,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03741.csv",
+      "event_idx": 3741,
+      "predicted_t0": 0.34,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03749.csv",
+      "event_idx": 3749,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03757.csv",
+      "event_idx": 3757,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03845.csv",
+      "event_idx": 3845,
+      "predicted_t0": 1.02,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03893.csv",
+      "event_idx": 3893,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_03928.csv",
+      "event_idx": 3928,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04081.csv",
+      "event_idx": 4081,
+      "predicted_t0": 0.25,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04083.csv",
+      "event_idx": 4083,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04208.csv",
+      "event_idx": 4208,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04244.csv",
+      "event_idx": 4244,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04252.csv",
+      "event_idx": 4252,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04261.csv",
+      "event_idx": 4261,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04409.csv",
+      "event_idx": 4409,
+      "predicted_t0": 0.34,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04414.csv",
+      "event_idx": 4414,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04466.csv",
+      "event_idx": 4466,
+      "predicted_t0": 0.26,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04489.csv",
+      "event_idx": 4489,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04497.csv",
+      "event_idx": 4497,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04506.csv",
+      "event_idx": 4506,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04575.csv",
+      "event_idx": 4575,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04589.csv",
+      "event_idx": 4589,
+      "predicted_t0": 0.42,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04666.csv",
+      "event_idx": 4666,
+      "predicted_t0": 0.32,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04723.csv",
+      "event_idx": 4723,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04731.csv",
+      "event_idx": 4731,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04845.csv",
+      "event_idx": 4845,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04866.csv",
+      "event_idx": 4866,
+      "predicted_t0": 0.28,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04867.csv",
+      "event_idx": 4867,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04991.csv",
+      "event_idx": 4991,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_04995.csv",
+      "event_idx": 4995,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05001.csv",
+      "event_idx": 5001,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05013.csv",
+      "event_idx": 5013,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05015.csv",
+      "event_idx": 5015,
+      "predicted_t0": 0.13,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05056.csv",
+      "event_idx": 5056,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05081.csv",
+      "event_idx": 5081,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05097.csv",
+      "event_idx": 5097,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05130.csv",
+      "event_idx": 5130,
+      "predicted_t0": 0.28,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05135.csv",
+      "event_idx": 5135,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05142.csv",
+      "event_idx": 5142,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05143.csv",
+      "event_idx": 5143,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05180.csv",
+      "event_idx": 5180,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05221.csv",
+      "event_idx": 5221,
+      "predicted_t0": 0.31,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05269.csv",
+      "event_idx": 5269,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05284.csv",
+      "event_idx": 5284,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05291.csv",
+      "event_idx": 5291,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05370.csv",
+      "event_idx": 5370,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05396.csv",
+      "event_idx": 5396,
+      "predicted_t0": 0.24,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05448.csv",
+      "event_idx": 5448,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05474.csv",
+      "event_idx": 5474,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05497.csv",
+      "event_idx": 5497,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05517.csv",
+      "event_idx": 5517,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05529.csv",
+      "event_idx": 5529,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05624.csv",
+      "event_idx": 5624,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05631.csv",
+      "event_idx": 5631,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05682.csv",
+      "event_idx": 5682,
+      "predicted_t0": 0.12,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05755.csv",
+      "event_idx": 5755,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05759.csv",
+      "event_idx": 5759,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05821.csv",
+      "event_idx": 5821,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05859.csv",
+      "event_idx": 5859,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_05989.csv",
+      "event_idx": 5989,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06009.csv",
+      "event_idx": 6009,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06044.csv",
+      "event_idx": 6044,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06090.csv",
+      "event_idx": 6090,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06116.csv",
+      "event_idx": 6116,
+      "predicted_t0": 0.4,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06120.csv",
+      "event_idx": 6120,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06171.csv",
+      "event_idx": 6171,
+      "predicted_t0": 0.14,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06186.csv",
+      "event_idx": 6186,
+      "predicted_t0": 1.28,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06240.csv",
+      "event_idx": 6240,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06243.csv",
+      "event_idx": 6243,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06254.csv",
+      "event_idx": 6254,
+      "predicted_t0": 2.82,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06264.csv",
+      "event_idx": 6264,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06269.csv",
+      "event_idx": 6269,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06326.csv",
+      "event_idx": 6326,
+      "predicted_t0": 0.28,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06441.csv",
+      "event_idx": 6441,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06577.csv",
+      "event_idx": 6577,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06583.csv",
+      "event_idx": 6583,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06590.csv",
+      "event_idx": 6590,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06706.csv",
+      "event_idx": 6706,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06717.csv",
+      "event_idx": 6717,
+      "predicted_t0": 0.42,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06929.csv",
+      "event_idx": 6929,
+      "predicted_t0": 0.03,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06947.csv",
+      "event_idx": 6947,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06958.csv",
+      "event_idx": 6958,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_06960.csv",
+      "event_idx": 6960,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07005.csv",
+      "event_idx": 7005,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07020.csv",
+      "event_idx": 7020,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07021.csv",
+      "event_idx": 7021,
+      "predicted_t0": 1.94,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07042.csv",
+      "event_idx": 7042,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07191.csv",
+      "event_idx": 7191,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07192.csv",
+      "event_idx": 7192,
+      "predicted_t0": 0.32,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07196.csv",
+      "event_idx": 7196,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07240.csv",
+      "event_idx": 7240,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07280.csv",
+      "event_idx": 7280,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07325.csv",
+      "event_idx": 7325,
+      "predicted_t0": 0.18,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07468.csv",
+      "event_idx": 7468,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07510.csv",
+      "event_idx": 7510,
+      "predicted_t0": 0.42,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07528.csv",
+      "event_idx": 7528,
+      "predicted_t0": 0.3,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07590.csv",
+      "event_idx": 7590,
+      "predicted_t0": 0.17,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07619.csv",
+      "event_idx": 7619,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07640.csv",
+      "event_idx": 7640,
+      "predicted_t0": 0.01,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07717.csv",
+      "event_idx": 7717,
+      "predicted_t0": 0.36,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07862.csv",
+      "event_idx": 7862,
+      "predicted_t0": 0.24,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07872.csv",
+      "event_idx": 7872,
+      "predicted_t0": 0.17,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_07993.csv",
+      "event_idx": 7993,
+      "predicted_t0": 0.1,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08015.csv",
+      "event_idx": 8015,
+      "predicted_t0": 0.3,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08028.csv",
+      "event_idx": 8028,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08111.csv",
+      "event_idx": 8111,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08112.csv",
+      "event_idx": 8112,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08115.csv",
+      "event_idx": 8115,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08169.csv",
+      "event_idx": 8169,
+      "predicted_t0": 0.26,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08264.csv",
+      "event_idx": 8264,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08301.csv",
+      "event_idx": 8301,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08320.csv",
+      "event_idx": 8320,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08346.csv",
+      "event_idx": 8346,
+      "predicted_t0": 0.29,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08377.csv",
+      "event_idx": 8377,
+      "predicted_t0": 0.15,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08422.csv",
+      "event_idx": 8422,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08425.csv",
+      "event_idx": 8425,
+      "predicted_t0": 0.9,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08533.csv",
+      "event_idx": 8533,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08554.csv",
+      "event_idx": 8554,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08562.csv",
+      "event_idx": 8562,
+      "predicted_t0": 0.25,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08575.csv",
+      "event_idx": 8575,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08585.csv",
+      "event_idx": 8585,
+      "predicted_t0": 0.11,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08640.csv",
+      "event_idx": 8640,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08646.csv",
+      "event_idx": 8646,
+      "predicted_t0": 1.02,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08661.csv",
+      "event_idx": 8661,
+      "predicted_t0": 0.3,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08757.csv",
+      "event_idx": 8757,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08796.csv",
+      "event_idx": 8796,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08831.csv",
+      "event_idx": 8831,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08871.csv",
+      "event_idx": 8871,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08892.csv",
+      "event_idx": 8892,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08900.csv",
+      "event_idx": 8900,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08902.csv",
+      "event_idx": 8902,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_08972.csv",
+      "event_idx": 8972,
+      "predicted_t0": 0.28,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09038.csv",
+      "event_idx": 9038,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09106.csv",
+      "event_idx": 9106,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09141.csv",
+      "event_idx": 9141,
+      "predicted_t0": 0.3,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09189.csv",
+      "event_idx": 9189,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09239.csv",
+      "event_idx": 9239,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09258.csv",
+      "event_idx": 9258,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09431.csv",
+      "event_idx": 9431,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09474.csv",
+      "event_idx": 9474,
+      "predicted_t0": 0.34,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09493.csv",
+      "event_idx": 9493,
+      "predicted_t0": 0.01,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09539.csv",
+      "event_idx": 9539,
+      "predicted_t0": 0.12,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09540.csv",
+      "event_idx": 9540,
+      "predicted_t0": 0.3,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09560.csv",
+      "event_idx": 9560,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09621.csv",
+      "event_idx": 9621,
+      "predicted_t0": 0.3,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09656.csv",
+      "event_idx": 9656,
+      "predicted_t0": 1.36,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09660.csv",
+      "event_idx": 9660,
+      "predicted_t0": 0.31,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09693.csv",
+      "event_idx": 9693,
+      "predicted_t0": 2.22,
+      "group": "fill_nonfast_detected"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09763.csv",
+      "event_idx": 9763,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09768.csv",
+      "event_idx": 9768,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09801.csv",
+      "event_idx": 9801,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09883.csv",
+      "event_idx": 9883,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09890.csv",
+      "event_idx": 9890,
+      "predicted_t0": 0.42,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09902.csv",
+      "event_idx": 9902,
+      "predicted_t0": 0.01,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09928.csv",
+      "event_idx": 9928,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_09969.csv",
+      "event_idx": 9969,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10018.csv",
+      "event_idx": 10018,
+      "predicted_t0": 0.12,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10103.csv",
+      "event_idx": 10103,
+      "predicted_t0": 0.3,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10197.csv",
+      "event_idx": 10197,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10259.csv",
+      "event_idx": 10259,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10389.csv",
+      "event_idx": 10389,
+      "predicted_t0": 0.4,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10432.csv",
+      "event_idx": 10432,
+      "predicted_t0": null,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10456.csv",
+      "event_idx": 10456,
+      "predicted_t0": 0.36,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10492.csv",
+      "event_idx": 10492,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10497.csv",
+      "event_idx": 10497,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10552.csv",
+      "event_idx": 10552,
+      "predicted_t0": 0.12,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10556.csv",
+      "event_idx": 10556,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10568.csv",
+      "event_idx": 10568,
+      "predicted_t0": 0.42,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10582.csv",
+      "event_idx": 10582,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10645.csv",
+      "event_idx": 10645,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10658.csv",
+      "event_idx": 10658,
+      "predicted_t0": 0.42,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10725.csv",
+      "event_idx": 10725,
+      "predicted_t0": 0.31,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10813.csv",
+      "event_idx": 10813,
+      "predicted_t0": 0.13,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10891.csv",
+      "event_idx": 10891,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10922.csv",
+      "event_idx": 10922,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10939.csv",
+      "event_idx": 10939,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_10970.csv",
+      "event_idx": 10970,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11062.csv",
+      "event_idx": 11062,
+      "predicted_t0": 0.32,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11119.csv",
+      "event_idx": 11119,
+      "predicted_t0": 0.3,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11148.csv",
+      "event_idx": 11148,
+      "predicted_t0": 0.28,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11152.csv",
+      "event_idx": 11152,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11164.csv",
+      "event_idx": 11164,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11171.csv",
+      "event_idx": 11171,
+      "predicted_t0": 0.32,
+      "group": "random_global"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11199.csv",
+      "event_idx": 11199,
+      "predicted_t0": 0.4,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11200.csv",
+      "event_idx": 11200,
+      "predicted_t0": 0.05,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11265.csv",
+      "event_idx": 11265,
+      "predicted_t0": 0.27,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11353.csv",
+      "event_idx": 11353,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11556.csv",
+      "event_idx": 11556,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11592.csv",
+      "event_idx": 11592,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11712.csv",
+      "event_idx": 11712,
+      "predicted_t0": 0.24,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11738.csv",
+      "event_idx": 11738,
+      "predicted_t0": 0.3,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11750.csv",
+      "event_idx": 11750,
+      "predicted_t0": 0.3,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11802.csv",
+      "event_idx": 11802,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11812.csv",
+      "event_idx": 11812,
+      "predicted_t0": 0.76,
+      "group": "fusion_mid"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_11995.csv",
+      "event_idx": 11995,
+      "predicted_t0": 0.29,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_12014.csv",
+      "event_idx": 12014,
+      "predicted_t0": 1.32,
+      "group": "fusion_high"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_12035.csv",
+      "event_idx": 12035,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_12041.csv",
+      "event_idx": 12041,
+      "predicted_t0": 0.28,
+      "group": "fast_path"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_12043.csv",
+      "event_idx": 12043,
+      "predicted_t0": null,
+      "group": "rejected_random"
+    }
+  },
+  {
+    "data": {
+      "csv": "/data/local-files/?d=fault_detection_framework/verification_data/event_12046.csv",
+      "event_idx": 12046,
+      "predicted_t0": 2.2,
+      "group": "fusion_mid"
+    }
+  }
+]
