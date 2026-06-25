@@ -1,0 +1,118 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, the generated annotations, or build on this work,
+  please cite the accompanying paper (see "preferred-citation") as well as this
+  repository.
+title: >-
+  Fault Inception Detection in Real-World Disturbance Data for Power System
+  Protection
+abstract: >-
+  Training-free, physics-guided reference implementation for estimating fault
+  inception timestamps (t0) in real-world transmission disturbance recordings.
+  The method combines protection-domain indicators, robust median/MAD-based
+  normalization, a low-latency transient path, and persistence-aware fusion and
+  veto logic to distinguish fault-consistent disturbances from non-fault
+  transients such as switching, energization, resonance, and measurement
+  artifacts.
+type: software
+license: BSD-3-Clause
+repository-code: "https://github.com/pashaeimehran/fault-inception-detection"
+url: "https://github.com/pashaeimehran/fault-inception-detection"
+keywords:
+  - fault inception detection
+  - disturbance data
+  - power system protection
+  - digital fault recorder
+  - robust statistics
+  - symmetrical components
+  - signal processing
+authors:
+  - given-names: Julian
+    family-names: Oelhaf
+    email: julian.oelhaf@fau.de
+    affiliation: >-
+      Pattern Recognition Lab, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+  - given-names: Mehran
+    family-names: Pashaei
+    affiliation: >-
+      Pattern Recognition Lab, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+  - given-names: Paula Andrea
+    family-names: Pérez-Toro
+    affiliation: >-
+      Pattern Recognition Lab, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+  - given-names: Georg
+    family-names: Kordowich
+    affiliation: >-
+      Institute of Electrical Energy Systems, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+  - given-names: Christian
+    family-names: Bergler
+    affiliation: >-
+      Department of Electrical Engineering, Media and Computer Science,
+      Ostbayerische Technische Hochschule Amberg-Weiden, Germany
+  - given-names: Andreas
+    family-names: Maier
+    affiliation: >-
+      Pattern Recognition Lab, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+  - given-names: Johann
+    family-names: Jäger
+    affiliation: >-
+      Institute of Electrical Energy Systems, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+  - given-names: Siming
+    family-names: Bayer
+    affiliation: >-
+      Pattern Recognition Lab, Friedrich-Alexander-Universität
+      Erlangen-Nürnberg, Germany
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Fault Inception Detection in Real-World Disturbance Data for Power System
+    Protection
+  authors:
+    - given-names: Julian
+      family-names: Oelhaf
+      email: julian.oelhaf@fau.de
+    - given-names: Mehran
+      family-names: Pashaei
+    - given-names: Paula Andrea
+      family-names: Pérez-Toro
+    - given-names: Georg
+      family-names: Kordowich
+    - given-names: Christian
+      family-names: Bergler
+    - given-names: Andreas
+      family-names: Maier
+    - given-names: Johann
+      family-names: Jäger
+    - given-names: Siming
+      family-names: Bayer
+  collection-title: >-
+    2026 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
+  conference:
+    name: >-
+      2026 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
+    city: Budapest
+    country: HU
+    date-start: "2026-10-19"
+    date-end: "2026-10-22"
+  publisher:
+    name: IEEE
+  year: 2026
+  month: 10
+  location:
+    city: Budapest
+    country: HU
+  # Fill in once the proceedings are published:
+  # doi: 10.xxxx/xxxxx
+  # start: <first page>
+  # end: <last page>
+  identifiers:
+    - type: other
+      value: "arXiv:2606.23111"
+      description: arXiv preprint
+  url: "https://arxiv.org/abs/2606.23111"
