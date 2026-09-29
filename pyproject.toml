@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Physics-guided fusion framework for fault inception detection in high-voltage digital fault recorder data."
 readme = "README.md"
 requires-python = ">=3.10"
-authors = [{ name = "Julian O" }]
+authors = [{ name = "Julian Oelhaf" }, { name = "Mehran Pashaei" }]
 keywords = [
     "fault detection",
     "power systems",
